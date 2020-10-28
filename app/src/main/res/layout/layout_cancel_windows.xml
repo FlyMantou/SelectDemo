@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="92dp"
+        android:layout_height="39dp"
+        android:background="@drawable/icon_tiku_hight_light_pop">
+
+
+    <TextView
+            android:id="@+id/tv_cancel"
+            android:layout_width="92dp"
+            android:layout_height="39dp"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:textSize="14sp"
+            android:paddingBottom="10dp"
+            android:textColor="#ffffff"
+            android:text="取消划重点" />
+
+
+</RelativeLayout>
